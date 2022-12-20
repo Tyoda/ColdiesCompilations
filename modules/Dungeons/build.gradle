@@ -1,0 +1,10 @@
+
+version "ty1.0"
+
+apply from: "../../common/common.gradle"
+
+
+
+dependencies {
+    implementation files("${rootProject.getProjectDir()}/libs/loottables.jar")
+}

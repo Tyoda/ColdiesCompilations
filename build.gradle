@@ -1,0 +1,20 @@
+
+
+
+
+task dist(type: Zip){
+    for(Project p : childProjects.values()){
+        subprojects {
+            project -> project.afterEvaluate {
+                if(project.ext.distPack) {
+                    from project.getTasksByName("distPack", true)
+                }else{
+                    from project.getTasksByName("dist", true)
+                }
+            }
+        }
+    }
+
+    archiveFileName = "${project.name}.zip"
+    destinationDir(file('./build/distributions/'))
+}

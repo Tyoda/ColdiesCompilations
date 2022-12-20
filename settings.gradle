@@ -1,0 +1,124 @@
+rootProject.name = 'ColdiesCompilations'
+
+include ":AntiMycelium"
+project(":AntiMycelium").projectDir = file("./modules/AntiMycelium")
+
+include ":Archery"
+project(":Archery").projectDir = file("./modules/Archery")
+
+include ":AutoAlert"
+project(":AutoAlert").projectDir = file("./modules/AutoAlert")
+
+include ":BountyColdieStyle"
+project(":BountyColdieStyle").projectDir = file("./modules/BountyColdieStyle")
+
+include ":BuildingSkillMod"
+project(":BuildingSkillMod").projectDir = file("./modules/BuildingSkillMod")
+
+include ":CavusNostra"
+project(":CavusNostra").projectDir = file("./modules/CavusNostra")
+
+include ":Ceiling"
+project(":Ceiling").projectDir = file("./modules/Ceiling")
+
+include ":Combiner"
+project(":Combiner").projectDir = file("./modules/Combiner")
+
+include ":CreaturesDB"
+project(":CreaturesDB").projectDir = file("./modules/CreaturesDB")
+
+include ":Decorations"
+project(":Decorations").projectDir = file("./modules/Decorations")
+
+include ":DeedMaker"
+project(":DeedMaker").projectDir = file("./modules/DeedMaker")
+
+include ":DPS"
+project(":DPS").projectDir = file("./modules/DPS")
+
+include ":Dungeons"
+project(":Dungeons").projectDir = file("./modules/Dungeons")
+
+include ":DyeMaker"
+project(":DyeMaker").projectDir = file("./modules/DyeMaker")
+
+include ":EpicCurve"
+project(":EpicCurve").projectDir = file("./modules/EpicCurve")
+
+include ":EventPortals"
+project(":EventPortals").projectDir = file("./modules/EventPortals")
+
+include ":FishMonger"
+project(":FishMonger").projectDir = file("./modules/FishMonger")
+
+include ":GMInvul"
+project(":GMInvul").projectDir = file("./modules/GMInvul")
+
+include ":Joke"
+project(":Joke").projectDir = file("./modules/Joke")
+
+include ":LeadMore"
+project(":LeadMore").projectDir = file("./modules/LeadMore")
+
+include ":LTDebuff"
+project(":LTDebuff").projectDir = file("./modules/LTDebuff")
+
+include ":MilkReset"
+project(":MilkReset").projectDir = file("./modules/MilkReset")
+
+include ":MobSpawnMaxCount"
+project(":MobSpawnMaxCount").projectDir = file("./modules/MobSpawnMaxCount")
+
+include ":NoSaltOrSand"
+project(":NoSaltOrSand").projectDir = file("./modules/NoSaltOrSand")
+
+include ":OneTileMining"
+project(":OneTileMining").projectDir = file("./modules/OneTileMining")
+
+include ":Paintings"
+project(":Paintings").projectDir = file("./modules/Paintings")
+
+include ":Portals"
+project(":Portals").projectDir = file("./modules/Portals")
+
+include ":RepairTower"
+project(":RepairTower").projectDir = file("./modules/RepairTower")
+
+include ":RiftEvent"
+project(":RiftEvent").projectDir = file("./modules/RiftEvent")
+
+include ":Roll"
+project(":Roll").projectDir = file("./modules/Roll")
+
+include ":ServerTimeMessage"
+project(":ServerTimeMessage").projectDir = file("./modules/ServerTimeMessage")
+
+include ":Signs"
+project(":Signs").projectDir = file("./modules/Signs")
+
+include ":Sitheil"
+project(":Sitheil").projectDir = file("./modules/Sitheil")
+
+include ":SteamID"
+project(":SteamID").projectDir = file("./modules/SteamID")
+
+include ":Survival"
+project(":Survival").projectDir = file("./modules/Survival")
+
+include ":TentSleep"
+project(":TentSleep").projectDir = file("./modules/TentSleep")
+
+include ":TitleMod"
+project(":TitleMod").projectDir = file("./modules/TitleMod")
+
+include ":TradeRouteMod"
+project(":TradeRouteMod").projectDir = file("./modules/TradeRouteMod")
+
+include ":Unleash"
+project(":Unleash").projectDir = file("./modules/Unleash")
+
+include ":VRMounts"
+project(":VRMounts").projectDir = file("./modules/VRMounts")
+
+include ":Windmill"
+project(":Windmill").projectDir = file("./modules/Windmill")

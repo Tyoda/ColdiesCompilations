@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/modules/AntiMycelium" />
+            <option value="$PROJECT_DIR$/modules/Archery" />
+            <option value="$PROJECT_DIR$/modules/AutoAlert" />
+            <option value="$PROJECT_DIR$/modules/BountyColdieStyle" />
+            <option value="$PROJECT_DIR$/modules/BuildingSkillMod" />
+            <option value="$PROJECT_DIR$/modules/CavusNostra" />
+            <option value="$PROJECT_DIR$/modules/Ceiling" />
+            <option value="$PROJECT_DIR$/modules/Combiner" />
+            <option value="$PROJECT_DIR$/modules/CreaturesDB" />
+            <option value="$PROJECT_DIR$/modules/DPS" />
+            <option value="$PROJECT_DIR$/modules/Decorations" />
+            <option value="$PROJECT_DIR$/modules/DeedMaker" />
+            <option value="$PROJECT_DIR$/modules/Dungeons" />
+            <option value="$PROJECT_DIR$/modules/DyeMaker" />
+            <option value="$PROJECT_DIR$/modules/EpicCurve" />
+            <option value="$PROJECT_DIR$/modules/EventPortals" />
+            <option value="$PROJECT_DIR$/modules/FishMonger" />
+            <option value="$PROJECT_DIR$/modules/GMInvul" />
+            <option value="$PROJECT_DIR$/modules/Joke" />
+            <option value="$PROJECT_DIR$/modules/LTDebuff" />
+            <option value="$PROJECT_DIR$/modules/LeadMore" />
+            <option value="$PROJECT_DIR$/modules/MilkReset" />
+            <option value="$PROJECT_DIR$/modules/MobSpawnMaxCount" />
+            <option value="$PROJECT_DIR$/modules/NoSaltOrSand" />
+            <option value="$PROJECT_DIR$/modules/OneTileMining" />
+            <option value="$PROJECT_DIR$/modules/Paintings" />
+            <option value="$PROJECT_DIR$/modules/Portals" />
+            <option value="$PROJECT_DIR$/modules/RepairTower" />
+            <option value="$PROJECT_DIR$/modules/RiftEvent" />
+            <option value="$PROJECT_DIR$/modules/Roll" />
+            <option value="$PROJECT_DIR$/modules/ServerTimeMessage" />
+            <option value="$PROJECT_DIR$/modules/Signs" />
+            <option value="$PROJECT_DIR$/modules/Sitheil" />
+            <option value="$PROJECT_DIR$/modules/SteamID" />
+            <option value="$PROJECT_DIR$/modules/Survival" />
+            <option value="$PROJECT_DIR$/modules/TentSleep" />
+            <option value="$PROJECT_DIR$/modules/TitleMod" />
+            <option value="$PROJECT_DIR$/modules/TradeRouteMod" />
+            <option value="$PROJECT_DIR$/modules/Unleash" />
+            <option value="$PROJECT_DIR$/modules/VRMounts" />
+            <option value="$PROJECT_DIR$/modules/Windmill" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

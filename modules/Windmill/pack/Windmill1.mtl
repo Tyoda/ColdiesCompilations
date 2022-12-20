@@ -1,0 +1,167 @@
+# Blender MTL File: 'Windmill1.blend'
+# Material Count: 15
+
+newmtl Frame_wall_plain_double_diagonal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\framed wall plain double diagonals.dds
+
+newmtl burlap
+Ns 749.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\burlap ribbon wide.dds
+
+newmtl framed_wall_double_vertical
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\framed wall plain double vertical.dds
+
+newmtl framed_wall_empty
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\framed wall empty.dds
+
+newmtl framed_wall_wide_2_squares
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\framed wall wide 2squares.dds
+
+newmtl framed_wall_wide_3_squares
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\framed wall plain double diagonals.dds
+
+newmtl framed_wall_wide_3_squares_framed_wall_wide_2squares.dds
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\framed wall wide 2squares.dds
+
+newmtl framed_wall_wide_3_squares_framed_wall_wide_3squares.dds
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\framed wall wide 3squares.dds
+
+newmtl framed_wall_window
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\windows framed wall.dds
+
+newmtl windmill_mat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\windmill_diffuse.dds
+
+newmtl windmill_mat_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\\Wurm creation\\6 sawmill and windmill\\windmill_diffuse.dds
+
+newmtl windmill_mat_framed_wall_plain_double_diagonals.dds
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\framed wall plain double diagonals.dds
+
+newmtl windmill_mat_windows_framed_wall.dds
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\windows framed wall.dds
+
+newmtl windmill_material
+Ns 223.529412
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\windmill_diffuse.dds
+
+newmtl wood_planks
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Wurm creation\6 sawmill and windmill\wooden.jpg

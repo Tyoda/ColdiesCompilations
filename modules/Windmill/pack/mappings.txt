@@ -1,0 +1,10 @@
+model.structure.sawmill=sawmill.wom
+model.structure.sawmill2=sawmill2.wom
+model.structure.sawmill3=sawmill3.wom
+model.structure.sawmill4=sawmill4.wom
+
+model.structure.sawmill.unfinished=sawmillunfinished.wom
+model.structure.windmill=Windmill.wom
+model.structure.windmill.unfinished=windmillunfinished.wom
+
+model.structure.masonsmill=diamondtip.wom

@@ -1,0 +1,28 @@
+model.toy.teddybear=teddy/teddybear.dae
+model.toy.bunny=bunny/bunny1.wom
+model.toy.koala = koala/koala.wom
+model.toy.rockinghorse = horse/horse.wom
+model.toy.bowling = bowling/bowling.wom
+model.toy.dragonbox = dragon box/dragonbox.dae
+model.toy.lute = lute/lute.wom
+model.toy.bilboquet = bilboquet/bilboquet.wom
+model.toy.leaningaxe = leaning axe/axeresized.wom
+model.toy.duck = duck/duck.wom
+model.toy.marbles = marbles/marbles.wom
+
+
+
+model.furniture.chesstable=chess/chessboard table.wom
+model.furniture.chair.chesschair=chess/chesschair.wom
+model.toy.chesswhitepawn=chess pieces/chess pawn.wom?pawn.texture=pawn marble.dds&base.texture=queen marble.dds
+model.toy.chesswhitehorse=chess pieces/chess horse.wom?horse.texture=horse marble.dds&base.texture=queen marble.dds
+model.toy.chesswhitecastle=chess pieces/chess tower.wom?tower.texture=tower marble.dds&base.texture=queen marble.dds
+model.toy.chesswhitebishop=chess pieces/chess knight.wom?knight.texture=knight marble.dds&base.texture=queen marble.dds
+model.toy.chesswhiteking=chess pieces/chess king.wom?king.texture=king marble.dds&base.texture=queen marble.dds
+model.toy.chesswhitequeen=chess pieces/chess queen.wom?queen.texture=queen marble.dds&base.texture=queen marble.dds
+model.toy.chessblackpawn=chess pieces/chess pawn.wom?pawn.texture=pawn slate.dds&base.texture=queen slate.dds
+model.toy.chessblackhorse=chess pieces/chess horse.wom?horse.texture=horse slate.dds&base.texture=queen slate.dds
+model.toy.chessblackcastle=chess pieces/chess tower.wom?tower.texture=tower slate.dds&base.texture=queen slate.dds
+model.toy.chessblackbishop=chess pieces/chess knight.wom?knight.texture=knight slate.dds&base.texture=queen slate.dds
+model.toy.chessblackking=chess pieces/chess king.wom?king.texture=king slate.dds&base.texture=queen slate.dds
+model.toy.chessblackqueen=chess pieces/chess queen.wom?queen.texture=queen slate.dds&base.texture=queen slate.dds

@@ -1,0 +1,12 @@
+<properties>
+
+	<horse.wom>
+        <modelProperties>
+            <meshMask>
+                <mesh>newhorse</mesh>
+                <mask>newhorsemask.png</mask>
+            </meshMask>
+        </modelProperties>
+    </horse.wom>
+	
+</properties>
