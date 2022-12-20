@@ -1,6 +1,13 @@
 
 
-
+task clean {
+    delete "${rootDir}/build"
+    subprojects {
+        project -> project.afterEvaluate {
+            project.clean
+        }
+    }
+}
 
 task dist(type: Zip){
     for(Project p : childProjects.values()){
