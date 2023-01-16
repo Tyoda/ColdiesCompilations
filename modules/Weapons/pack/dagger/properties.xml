@@ -1,0 +1,23 @@
+<properties>
+
+	<dagger.wom>
+	<modelProperties>
+		<mask>dagger_material.png</mask>
+	</modelProperties>
+		<offsetToNull>
+			<NullRightHand>
+				<xPos>0.0</xPos>
+				<yPos>0.0</yPos>
+				<zPos>0.0</zPos>
+				<yRot>180.0</yRot>
+				<zRot>180.0</zRot>
+			</NullRightHand>
+			<NullLeftHand>
+				<xPos>0.0</xPos>
+				<yPos>0.0</yPos>
+				<zPos>0.0</zPos>
+				<yRot>180.0</yRot>
+			</NullLeftHand>
+		</offsetToNull>		
+	</dagger.wom>
+</properties>

@@ -1,0 +1,5 @@
+model.weapon.axe.headsplitter=hugeaxe/hugeaxe.wom
+model.weapon.polearm.javelin=polearm/polearm.wom
+model.weapon.club.spiked club=spiked club/spiked_club.wom
+model.weapon.pick.warpick=warpick/warpick.wom
+model.weapon.blade.dagger=dagger/dagger.wom

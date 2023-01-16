@@ -1,0 +1,24 @@
+<properties>
+
+	<spiked_club.wom>
+		<modelProperties>
+			<meshMask> 
+				<mesh>black_scratched_iron_scratched_iron.dds.001</mesh>
+				<mask>yellow.png</mask>
+			</meshMask>
+		</modelProperties>
+		<offsetToNull>
+			<NullRightHand>
+				<xPos>0.0</xPos>
+				<yPos>-0.05</yPos>
+				<zPos>0.1</zPos>
+				<yRot>0.0</yRot>
+			</NullRightHand>
+			<NullLeftHand>
+				<xPos>0.0</xPos>
+				<yPos>-0.04</yPos>
+				<zPos>0.1</zPos>
+			</NullLeftHand>
+		</offsetToNull>		
+	</spiked_club.wom>
+</properties>

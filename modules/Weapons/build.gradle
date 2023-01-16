@@ -1,0 +1,6 @@
+
+version "ty1.0"
+
+apply from: "../../common/common.gradle"
+
+distPack = true

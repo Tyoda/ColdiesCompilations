@@ -1,0 +1,26 @@
+<properties>
+
+	<hugeaxe.wom>
+		<modelProperties>
+			<meshMask> 
+				<mesh>scratched_metal</mesh>
+				<mask>yellow.png</mask>
+			</meshMask>
+		</modelProperties>
+		<offsetToNull>
+			<NullRightHand>
+				<xPos>0.0</xPos>
+				<yPos>-0.08</yPos>
+				<zPos>0.5</zPos>
+				<yRot>0.0</yRot>
+			</NullRightHand>
+			<NullLeftHand>
+				<xPos>0.0</xPos>
+				<yPos>-0.02</yPos>
+				<zPos>0.5</zPos>
+				<yRot>0.0</yRot>
+				<zRot>180</zRot>
+			</NullLeftHand>
+		</offsetToNull>		
+	</hugeaxe.wom>
+</properties>

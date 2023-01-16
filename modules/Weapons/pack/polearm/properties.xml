@@ -1,0 +1,23 @@
+<properties>
+
+	<polearm.wom>
+		<modelProperties>
+			<meshMask> 
+				<mesh>spear</mesh>
+				<mask>spears_material.dds</mask>
+			</meshMask>
+			<meshMask> 
+				<mesh>spear_spears.dds</mesh>
+				<mask>spears_material.dds</mask>
+			</meshMask>			
+		</modelProperties>
+		<offsetToNull>
+			<NullRightHand>
+				<xPos>0.0</xPos>
+				<yPos>-0.02</yPos>
+				<zPos>0.1</zPos>
+				<yRot>0.0</yRot>
+			</NullRightHand>
+		</offsetToNull>		
+	</polearm.wom>
+</properties>

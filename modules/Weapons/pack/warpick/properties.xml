@@ -1,0 +1,25 @@
+<properties>
+
+	<warpick.wom>
+		<modelProperties>
+			<meshMask> 
+				<mesh>maulMat_Maul_Diff_512.dds</mesh>
+				<mask>Maul_Diff_material.dds</mask>
+			</meshMask>
+			
+		</modelProperties>
+		<offsetToNull>
+			<NullRightHand>
+				<xPos>0.0</xPos>
+				<yPos>0.06</yPos>
+				<zPos>0.0</zPos>
+				<zRot>180.0</zRot>
+			</NullRightHand>
+			<NullLeftHand>
+				<xPos>0.0</xPos>
+				<yPos>-0.06</yPos>
+				<zPos>0.0</zPos>
+			</NullLeftHand>		
+		</offsetToNull>		
+	</warpick.wom>
+</properties>

@@ -120,5 +120,8 @@ project(":Unleash").projectDir = file("./modules/Unleash")
 include ":VRMounts"
 project(":VRMounts").projectDir = file("./modules/VRMounts")
 
+include ":Weapons"
+project(":Weapons").projectDir = file("./modules/Weapons")
+
 include ":Windmill"
 project(":Windmill").projectDir = file("./modules/Windmill")
